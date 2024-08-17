@@ -1,19 +1,21 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Welcome to Black Jack!  ♠️♥️♦️♣️
+Purpose: Black Jack is a Java script game that allows user to play the famous card game in virtual setting.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## Getting Started
+(1) Save the file to your local machine
+(2) Open the folder in Visual Studio Code
+(3) Right click index.html and click open live server
+(4) YAYY Now you can begin playing black jack!
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## UI Design
+Start Game Button: Begins the game by providing the first set of 2 random cards
+& adding the sum of the two cards, while providing inital $200 to the player
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+New Card Button: Adds and additional random card into the game and creates the sum of the cards which determines if the user is out of the game or still in the game!
 
+
+Thank you for visiting my repo 😊 
 Happy Coding!
+
+Kind Regards, 
+Sumeet
